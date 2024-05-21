@@ -1,5 +1,5 @@
 import './App.css';
-
+//ignoring the case where we are updating the parent row, as it is unclear on how to update the values of the child rows.
 //data is representated in the form of arrays and with the help of the desired functions calls we update the values of the array accordingly.
 const col0 = ["Electronics", "Phones", "Laptops","Furniture","Tables","Chairs"];
 const col1 = [1500, 800, 700,1000,300,700];
